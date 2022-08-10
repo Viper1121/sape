@@ -11,3 +11,5 @@ Blatant Window > `BetterKillaura` (MultiAura Recreation)
 Blatant Window > `SilentBow` (ProjectileExploit Recreation)
 
 Utility Window > `MatchCode` (Get the custom match code)
+
+Combat Window > `NoClickDelay` (Removes Click Delay)
